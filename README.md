@@ -41,5 +41,5 @@
 
 ## 📫 Connect with me
 
-* LinkedIn: linkedin.com/in/prabhjot-kaur-warring
+* LinkedIn: https://www.linkedin.com/in/prabhjot-kaur-warring/
 * GitHub: https://github.com/jot-prabh
